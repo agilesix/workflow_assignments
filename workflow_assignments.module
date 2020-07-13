@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * @file
+ * Hooks for Workflow Assignments.
+ *
+ * Ideally, we should subscribe to events instead of hooks.
+ * See core issue in progress
+ * https://www.drupal.org/project/drupal/issues/2551893.
+ */
